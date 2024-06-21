@@ -1,7 +1,7 @@
-# Must
+# Fixed
 pvlib==0.8.1
 
-# Optional
+# Potentially flexible
 addict==2.4.0
 alembic==1.13.1
 anyio==4.3.0
