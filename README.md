@@ -1,5 +1,5 @@
 # Private Billings: Data Generation
-This repository contains the [notebook](generation.ipynb) used to generate the production and consumption data used in the [experimentation](https://github.com/3MI-Labs/private-billings-experiment) of the [Private Billings](https://github.com/3MI-Labs/private-billings) project.
+This repository contains the [notebook](generation.ipynb) used to generate the production and consumption data used in the [experimentation](REDACTED) of the [Private Billings](REDACTED) project.
 
 ## Structure
 This repository contains several Jupyter notebooks used to generate this data.
@@ -15,6 +15,6 @@ For the packages labelled 'potentially flexible' other versions might work too, 
 
 ## Acknowledgements
 The notebooks contained in this repository used notebooks in other repositories drew inspiration for several other repositories:
-- [wind.ipynb](wind/wind.ipynb) and [pv.ipynb](pv/pv.ipynb) are based on [WindpowerlibTurbine-model](https://github.com/PeijieZ/WindpowerlibTurbine-model) by PeijieZ.
-- [consumption.ipynb](consumption/consumption.ipynb) is based on [Load-profile-generation](https://github.com/PeijieZ/Load-profile-generation), written by PeijieZ.
-- [generation.ipynb](generation.ipynb) is inspired by [Billing-Models-for-Electricity-Trading-Markets](https://github.com/PeijieZ/Billing-Models-for-Electricity-Trading-Markets), written by PeijieZ.
+- [wind.ipynb](wind/wind.ipynb) and [pv.ipynb](pv/pv.ipynb) are based on [WindpowerlibTurbine-model](REDACTED) by XXXX.
+- [consumption.ipynb](consumption/consumption.ipynb) is based on [Load-profile-generation](REDACTED), written by XXXX.
+- [generation.ipynb](generation.ipynb) is inspired by [Billing-Models-for-Electricity-Trading-Markets](REDACTED), written by XXX.
